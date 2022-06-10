@@ -1,4 +1,4 @@
-Hi, I'm Juno! I'm currently a junior in high school with an interest in data science and multi-disciplinary applications of analytic techinques.
+Hi, I'm Juno! I'm currently a senior in high school with an interest in data science and multi-disciplinary applications of analytic techinques.
 
 <!---
 Neontus/Neontus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
