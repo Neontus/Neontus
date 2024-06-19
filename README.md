@@ -1,4 +1,4 @@
-Hi, I'm Juno! I'm currently a sophomore at the University of Pennsylvania studying computer science.
+Hi, I'm Juno! I'm currently a student at the University of Pennsylvania studying computer science.
 My biggest interests are in AI and ML, and range domains such as physics, education, music, and more.
 Outside of work, I love bouldering and backpacking!
 
