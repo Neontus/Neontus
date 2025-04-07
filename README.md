@@ -3,11 +3,8 @@
 I'm a Computer Science major at the University of Pennsylvania with a passion for developing innovative solutions in software engineering, data science, and machine learning. I enjoy applying my technical skills to solve real-world problems—from automating financial processes to building data-driven products.
 
 ## 🚀 Projects
-- **Mosh**
 
 - **Pennstagram (NETS2120)**
-
-- **Custom DJ Software**
 
 - **Lockheed Project**
 
