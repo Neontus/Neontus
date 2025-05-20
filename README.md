@@ -17,6 +17,5 @@ I'm a Computer Science major at the University of Pennsylvania with a passion fo
 - **Frameworks & Tools:** Pandas, NumPy, PyTorch, OpenCV, Keras, MongoDB, NLTK, scikit-learn, Matplotlib, Seaborn
 
 ## 📫 Get in Touch
-- **Email:** [junokimzone@gmail.com](mailto:junokim@seas.upenn.edu)
+- **Email:** [junokim@seas.upenn.edu](mailto:junokim@seas.upenn.edu)
 - **LinkedIn:** [linkedin.com/in/junokimzone](https://www.linkedin.com/in/junokimzone/)
-- **GitHub:** [github.com/Neontus](https://github.com/Neontus)
