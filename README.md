@@ -9,7 +9,12 @@ I'm a Computer Science major at the University of Pennsylvania with a passion fo
   - Reduced image retrieval latency by 40% by using ChromaDB for vector similarity search
   - Enabled efficient personalized content ranking using Spark-based adsorption algorithm by processing graph data on Apache Spark and streaming updates with Kafka
 
-- (WIP) **DJFast**
+- (WIP) **Stockify**
+  - [Project Link](https://stockify-mocha.vercel.app/)
+  - Building full stack app to simulate stock exchange for tracking music artist's popularity
+ 
+- (WIP) **Tiktok Media Automation**
+  - Building automated workflow to upload music lyric videos of popular sounds + songs
 
 - **Lockheed Martin Satellite Data Alignment Project**
   - Simulated co-alignment of AIA images to IRIS rasters for 100M+ solar scans by developing and training a U-Net CNN with LMSAL's high performance cluster
